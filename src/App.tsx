@@ -6,8 +6,8 @@ import { Header } from './shared/Header/Header';
 
 function App() {
   return (
-    <div className="App">
-      <Header/>
+    <div className="container">
+      <Header />
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/month-statistics" exact component={MonthStatistics} />
