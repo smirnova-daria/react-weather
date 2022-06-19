@@ -35,14 +35,14 @@
 	.indicator__name,
 	.indicator__value {
 		font-size: 14px;
+		z-index: 2;
+		position: relative;
 	}
 	.indicator__name {
 		color: $base-color;
 	}
 	.indicator__value {
 		color: $light-color;
-		z-index: 2;
-		position: relative;
 	}
 }
 .cloud__image {
