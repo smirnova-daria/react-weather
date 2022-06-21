@@ -24,7 +24,7 @@ export const Days = (props: Props) => {
 			info: 'Ясно',
 		},
 		{
-			day: 'Сегодня',
+			day: 'Вт',
 			day_info: '29 авг',
 			icon_id: 'small_rain_sun',
 			temp_day: '+15°',
@@ -32,7 +32,7 @@ export const Days = (props: Props) => {
 			info: 'Небольшой дождь',
 		},
 		{
-			day: 'Сегодня',
+			day: 'Ср',
 			day_info: '28 авг',
 			icon_id: 'small_rain',
 			temp_day: '+18°',
@@ -40,15 +40,15 @@ export const Days = (props: Props) => {
 			info: 'Облачно',
 		},
 		{
-			day: 'Сегодня',
+			day: 'Чт',
 			day_info: '28 авг',
-			icon_id: 'mainly_cloudy',
+			icon_id: 'clouds',
 			temp_day: '+18°',
 			temp_night: '+15°',
 			info: 'Пасмурно',
 		},
 		{
-			day: 'Сегодня',
+			day: 'Пт',
 			day_info: '28 авг',
 			icon_id: 'rain',
 			temp_day: '+18°',
@@ -56,7 +56,7 @@ export const Days = (props: Props) => {
 			info: 'Дождь',
 		},
 		{
-			day: 'Сегодня',
+			day: 'Сб',
 			day_info: '28 авг',
 			icon_id: 'sun',
 			temp_day: '+18°',
@@ -64,7 +64,7 @@ export const Days = (props: Props) => {
 			info: 'Солнечно',
 		},
 		{
-			day: 'Сегодня',
+			day: 'Вс',
 			day_info: '28 авг',
 			icon_id: 'rain',
 			temp_day: '+18°',
